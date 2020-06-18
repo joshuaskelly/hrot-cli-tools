@@ -1,4 +1,4 @@
-# [![hrot-cli-tools](.media/logo.svg?sanitize=true)](https://github.com/JoshuaSkelly/hrot-cli-tools)
+# [![hrot-cli-tools](https://raw.githubusercontent.com/joshuaskelly/hrot-cli-tools/master/.media/logo.svg?sanitize=true)](https://github.com/JoshuaSkelly/hrot-cli-tools)
 
 # hrot-cli-tools
 
